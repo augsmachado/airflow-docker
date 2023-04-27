@@ -1,0 +1,31 @@
+[2023-04-25T23:39:07.976+0000] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: treino-02.get-data scheduled__2023-04-23T22:32:00+00:00 [queued]>
+[2023-04-25T23:39:08.085+0000] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: treino-02.get-data scheduled__2023-04-23T22:32:00+00:00 [queued]>
+[2023-04-25T23:39:08.089+0000] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-25T23:39:08.095+0000] {taskinstance.py:1289} INFO - Starting attempt 2 of 2
+[2023-04-25T23:39:08.099+0000] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-25T23:39:08.285+0000] {taskinstance.py:1309} INFO - Executing <Task(BashOperator): get-data> on 2023-04-23 22:32:00+00:00
+[2023-04-25T23:39:08.656+0000] {standard_task_runner.py:55} INFO - Started process 1462 to run task
+[2023-04-25T23:39:09.039+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'treino-02', 'get-data', 'scheduled__2023-04-23T22:32:00+00:00', '--job-id', '260', '--raw', '--subdir', 'DAGS_FOLDER/treino02.py', '--cfg-path', '/tmp/tmpz8848yhc']
+[2023-04-25T23:39:09.086+0000] {standard_task_runner.py:83} INFO - Job 260: Subtask get-data
+[2023-04-25T23:39:10.986+0000] {task_command.py:389} INFO - Running <TaskInstance: treino-02.get-data scheduled__2023-04-23T22:32:00+00:00 [running]> on host b7947b05bca0
+[2023-04-25T23:39:12.984+0000] {taskinstance.py:1518} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=test@example.com,test2@example.com
+AIRFLOW_CTX_DAG_OWNER=augsmachado
+AIRFLOW_CTX_DAG_ID=treino-02
+AIRFLOW_CTX_TASK_ID=get-data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-23T22:32:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-23T22:32:00+00:00
+[2023-04-25T23:39:13.052+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-04-25T23:39:13.068+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'curl -o ~/titanic.csv https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv']
+[2023-04-25T23:39:13.393+0000] {subprocess.py:86} INFO - Output:
+[2023-04-25T23:39:13.631+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2023-04-25T23:39:13.635+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2023-04-25T23:39:14.074+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 60302  100 60302    0     0   151k      0 --:--:-- --:--:-- --:--:--  151k100 60302  100 60302    0     0   139k      0 --:--:-- --:--:-- --:--:--  139k
+[2023-04-25T23:39:14.351+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-04-25T23:39:15.799+0000] {taskinstance.py:1332} INFO - Marking task as SUCCESS. dag_id=treino-02, task_id=get-data, execution_date=20230423T223200, start_date=20230425T233908, end_date=20230425T233915
+[2023-04-25T23:39:17.506+0000] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-25T23:39:18.127+0000] {taskinstance.py:2596} INFO - 1 downstream tasks scheduled from follow-on schedule check

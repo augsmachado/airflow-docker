@@ -1,0 +1,41 @@
+[2023-04-25T23:34:30.313+0000] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: treino-02.get-data scheduled__2023-04-23T21:52:00+00:00 [queued]>
+[2023-04-25T23:34:30.507+0000] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: treino-02.get-data scheduled__2023-04-23T21:52:00+00:00 [queued]>
+[2023-04-25T23:34:30.511+0000] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-25T23:34:30.515+0000] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-25T23:34:30.517+0000] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-25T23:34:30.842+0000] {taskinstance.py:1309} INFO - Executing <Task(BashOperator): get-data> on 2023-04-23 21:52:00+00:00
+[2023-04-25T23:34:30.955+0000] {standard_task_runner.py:55} INFO - Started process 1040 to run task
+[2023-04-25T23:34:31.032+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'treino-02', 'get-data', 'scheduled__2023-04-23T21:52:00+00:00', '--job-id', '186', '--raw', '--subdir', 'DAGS_FOLDER/treino02.py', '--cfg-path', '/tmp/tmpiewua8lj']
+[2023-04-25T23:34:31.058+0000] {standard_task_runner.py:83} INFO - Job 186: Subtask get-data
+[2023-04-25T23:34:31.870+0000] {task_command.py:389} INFO - Running <TaskInstance: treino-02.get-data scheduled__2023-04-23T21:52:00+00:00 [running]> on host b7947b05bca0
+[2023-04-25T23:34:32.543+0000] {taskinstance.py:1518} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=test@example.com,test2@example.com
+AIRFLOW_CTX_DAG_OWNER=augsmachado
+AIRFLOW_CTX_DAG_ID=treino-02
+AIRFLOW_CTX_TASK_ID=get-data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-23T21:52:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-23T21:52:00+00:00
+[2023-04-25T23:34:32.558+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2023-04-25T23:34:32.579+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'curl -o ~/Users/augsmachado/Desktop/Development/***-docker/files/titanic.csv https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv']
+[2023-04-25T23:34:32.753+0000] {subprocess.py:86} INFO - Output:
+[2023-04-25T23:34:33.088+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2023-04-25T23:34:33.098+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2023-04-25T23:34:33.319+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0Warning: Failed to create the file
+[2023-04-25T23:34:33.326+0000] {subprocess.py:93} INFO - Warning: /home/***/Users/augsmachado/Desktop/Development/***-docker/fil
+[2023-04-25T23:34:33.333+0000] {subprocess.py:93} INFO - Warning: es/titanic.csv: No such file or directory
+[2023-04-25T23:34:33.334+0000] {subprocess.py:93} INFO -   1 60302    1   903    0     0   3655      0  0:00:16 --:--:--  0:00:16  3655
+[2023-04-25T23:34:33.341+0000] {subprocess.py:93} INFO - curl: (23) Failure writing output to destination
+[2023-04-25T23:34:33.343+0000] {subprocess.py:97} INFO - Command exited with return code 23
+[2023-04-25T23:34:33.844+0000] {taskinstance.py:1776} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 197, in execute
+    f"Bash command failed. The command returned a non-zero exit code {result.exit_code}."
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 23.
+[2023-04-25T23:34:33.952+0000] {taskinstance.py:1332} INFO - Marking task as UP_FOR_RETRY. dag_id=treino-02, task_id=get-data, execution_date=20230423T215200, start_date=20230425T233430, end_date=20230425T233433
+[2023-04-25T23:34:35.053+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 186 for task get-data (Bash command failed. The command returned a non-zero exit code 23.; 1040)
+[2023-04-25T23:34:35.330+0000] {local_task_job.py:212} INFO - Task exited with return code 1
+[2023-04-25T23:34:36.942+0000] {taskinstance.py:2596} INFO - 0 downstream tasks scheduled from follow-on schedule check
