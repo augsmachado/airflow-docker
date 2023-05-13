@@ -1,4 +1,3 @@
-
 from datetime import datetime, timedelta
 from textwrap import dedent
 
@@ -7,6 +6,7 @@ from airflow import DAG
 
 # Operators; we need this to operate!
 from airflow.operators.bash import BashOperator
+
 with DAG(
     "treino-04",
     # These args will get passed on to each operator
@@ -37,7 +37,6 @@ with DAG(
     catchup=False,
     tags=["example"],
 ) as dag:
-
     # t1, t2 and t3 are examples of tasks created by instantiating operators
     t1 = BashOperator(
         task_id="print_date",
@@ -61,7 +60,9 @@ with DAG(
     """
     )
 
-    dag.doc_md = __doc__  # providing that you have a docstring at the beginning of the DAG; OR
+    dag.doc_md = (
+        __doc__  # providing that you have a docstring at the beginning of the DAG; OR
+    )
     dag.doc_md = """
     This is a documentation placed anywhere
     """  # otherwise, type it like this
