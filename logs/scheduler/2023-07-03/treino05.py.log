@@ -1,0 +1,581 @@
+[2023-07-03T14:16:05.227+0000] {processor.py:153} INFO - Started process (PID=36) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:16:05.233+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:16:05.240+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:16:05.239+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:16:05.271+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:16:05.360+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:16:05.360+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:16:05.410+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:16:05.410+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:16:05.471+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.259 seconds
+[2023-07-03T14:16:35.571+0000] {processor.py:153} INFO - Started process (PID=94) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:16:35.575+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:16:35.577+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:16:35.577+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:16:35.666+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:16:35.742+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:16:35.742+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:16:35.782+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:16:35.782+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:16:35.812+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.248 seconds
+[2023-07-03T14:17:06.016+0000] {processor.py:153} INFO - Started process (PID=151) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:17:06.025+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:17:06.028+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:17:06.028+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:17:06.070+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:17:06.108+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:17:06.108+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:17:06.142+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:17:06.142+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:17:06.167+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.161 seconds
+[2023-07-03T14:17:37.419+0000] {processor.py:153} INFO - Started process (PID=207) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:17:37.423+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:17:37.426+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:17:37.426+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:17:37.490+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:17:37.663+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:17:37.663+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:17:37.778+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:17:37.774+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:17:38.106+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.642 seconds
+[2023-07-03T14:18:08.918+0000] {processor.py:153} INFO - Started process (PID=262) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:18:08.947+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:18:08.964+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:18:08.964+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:18:09.102+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:18:09.313+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:18:09.313+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:18:09.552+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:18:09.551+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:18:09.690+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.792 seconds
+[2023-07-03T14:19:03.942+0000] {processor.py:153} INFO - Started process (PID=322) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:19:03.983+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:19:03.987+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:19:03.987+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:19:04.289+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:19:04.612+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:19:04.598+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:19:04.866+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:19:04.865+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:19:04.998+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 1.082 seconds
+[2023-07-03T14:19:37.675+0000] {processor.py:153} INFO - Started process (PID=379) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:19:37.682+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:19:37.695+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:19:37.695+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:19:37.928+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:19:38.331+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:19:38.331+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:19:38.447+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:19:38.446+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:19:38.502+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.860 seconds
+[2023-07-03T14:20:08.831+0000] {processor.py:153} INFO - Started process (PID=433) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:20:08.832+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:20:08.833+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:20:08.833+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:20:08.850+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:20:08.890+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:20:08.890+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:20:08.922+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:20:08.922+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:20:08.960+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.132 seconds
+[2023-07-03T14:20:39.077+0000] {processor.py:153} INFO - Started process (PID=489) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:20:39.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:20:39.084+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:20:39.084+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:20:39.153+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:20:39.345+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:20:39.345+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:20:39.498+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:20:39.488+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:20:39.552+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.487 seconds
+[2023-07-03T14:21:10.480+0000] {processor.py:153} INFO - Started process (PID=547) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:21:10.482+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:21:10.484+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:21:10.484+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:21:10.550+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:21:10.613+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:21:10.613+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:21:10.675+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:21:10.675+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:21:10.740+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.264 seconds
+[2023-07-03T14:21:40.927+0000] {processor.py:153} INFO - Started process (PID=604) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:21:40.929+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:21:40.932+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:21:40.932+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:21:40.957+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:21:41.001+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:21:41.001+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:21:41.022+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:21:41.021+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:21:41.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.124 seconds
+[2023-07-03T14:22:12.068+0000] {processor.py:153} INFO - Started process (PID=661) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:22:12.069+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:22:12.070+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:22:12.070+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:22:12.095+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:22:12.141+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:22:12.141+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:22:12.161+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:22:12.161+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:22:12.177+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.113 seconds
+[2023-07-03T14:22:43.100+0000] {processor.py:153} INFO - Started process (PID=719) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:22:43.122+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:22:43.130+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:22:43.129+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:22:43.162+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:22:43.194+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:22:43.194+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:22:43.221+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:22:43.221+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:22:43.248+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.163 seconds
+[2023-07-03T14:23:13.551+0000] {processor.py:153} INFO - Started process (PID=776) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:23:13.556+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:23:13.559+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:23:13.559+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:23:13.592+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:23:13.643+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:23:13.643+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:23:13.670+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:23:13.670+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:23:13.685+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.142 seconds
+[2023-07-03T14:23:44.394+0000] {processor.py:153} INFO - Started process (PID=833) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:23:44.396+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:23:44.397+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:23:44.397+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:23:44.420+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:23:44.463+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:23:44.463+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:23:44.490+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:23:44.490+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:23:44.505+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.118 seconds
+[2023-07-03T14:24:14.772+0000] {processor.py:153} INFO - Started process (PID=890) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:24:14.773+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:24:14.775+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:24:14.774+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:24:14.800+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:24:14.846+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:24:14.846+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:24:14.874+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:24:14.874+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:24:14.891+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.125 seconds
+[2023-07-03T14:24:45.307+0000] {processor.py:153} INFO - Started process (PID=947) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:24:45.308+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:24:45.309+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:24:45.309+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:24:45.341+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:24:45.389+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:24:45.389+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:24:45.417+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:24:45.417+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:24:45.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.131 seconds
+[2023-07-03T14:25:16.294+0000] {processor.py:153} INFO - Started process (PID=1004) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:25:16.301+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:25:16.304+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:25:16.304+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:25:16.335+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:25:16.392+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:25:16.392+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:25:16.430+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:25:16.429+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:25:16.447+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.162 seconds
+[2023-07-03T14:25:47.191+0000] {processor.py:153} INFO - Started process (PID=1061) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:25:47.192+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:25:47.193+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:25:47.193+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:25:47.215+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:25:47.268+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:25:47.268+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:25:47.303+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:25:47.302+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:25:47.319+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.133 seconds
+[2023-07-03T14:26:17.557+0000] {processor.py:153} INFO - Started process (PID=1118) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:26:17.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:26:17.560+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:26:17.560+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:26:17.603+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:26:17.657+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:26:17.657+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:26:17.682+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:26:17.682+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:26:17.702+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.149 seconds
+[2023-07-03T14:26:47.892+0000] {processor.py:153} INFO - Started process (PID=1176) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:26:47.894+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:26:47.895+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:26:47.895+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:26:47.928+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:26:47.956+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:26:47.956+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:26:47.975+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:26:47.975+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:26:47.988+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.103 seconds
+[2023-07-03T14:27:18.480+0000] {processor.py:153} INFO - Started process (PID=1233) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:27:18.482+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:27:18.484+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:27:18.484+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:27:18.514+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:27:18.547+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:27:18.547+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:27:18.616+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:27:18.616+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:27:18.633+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.161 seconds
+[2023-07-03T14:27:49.049+0000] {processor.py:153} INFO - Started process (PID=1290) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:27:49.052+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:27:49.053+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:27:49.053+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:27:49.090+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:27:49.135+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:27:49.135+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:27:49.171+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:27:49.171+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:27:49.188+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.156 seconds
+[2023-07-03T14:28:19.375+0000] {processor.py:153} INFO - Started process (PID=1347) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:28:19.377+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:28:19.379+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:28:19.379+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:28:19.404+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:28:19.450+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:28:19.450+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:28:19.475+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:28:19.475+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:28:19.490+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.123 seconds
+[2023-07-03T14:28:49.681+0000] {processor.py:153} INFO - Started process (PID=1403) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:28:49.682+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:28:49.683+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:28:49.683+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:28:49.700+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:28:49.725+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:28:49.725+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:28:49.742+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:28:49.742+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:28:49.754+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.076 seconds
+[2023-07-03T14:29:20.120+0000] {processor.py:153} INFO - Started process (PID=1460) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:29:20.124+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:29:20.127+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:29:20.126+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:29:20.157+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:29:20.227+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:29:20.227+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:29:20.257+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:29:20.256+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:29:20.287+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.195 seconds
+[2023-07-03T14:29:50.625+0000] {processor.py:153} INFO - Started process (PID=1517) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:29:50.626+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:29:50.627+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:29:50.627+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:29:50.666+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:29:50.743+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:29:50.743+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:29:50.789+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:29:50.789+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:29:50.856+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.234 seconds
+[2023-07-03T14:30:21.178+0000] {processor.py:153} INFO - Started process (PID=1574) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:30:21.180+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:30:21.182+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:30:21.182+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:30:21.215+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:30:21.301+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:30:21.300+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:30:21.343+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:30:21.343+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:30:21.366+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.197 seconds
+[2023-07-03T14:30:52.191+0000] {processor.py:153} INFO - Started process (PID=1631) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:30:52.194+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:30:52.195+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:30:52.195+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:30:52.238+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:30:52.324+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:30:52.324+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:30:52.359+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:30:52.359+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:30:52.376+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.194 seconds
+[2023-07-03T14:31:22.460+0000] {processor.py:153} INFO - Started process (PID=1695) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:31:22.462+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:31:22.463+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:31:22.463+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:31:22.501+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:31:22.543+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:31:22.543+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:31:22.582+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:31:22.582+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:31:22.599+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.145 seconds
+[2023-07-03T14:31:52.775+0000] {processor.py:153} INFO - Started process (PID=1752) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:31:52.779+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:31:52.781+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:31:52.780+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:31:52.821+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:31:52.885+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:31:52.885+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:31:52.914+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:31:52.914+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:31:52.942+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.172 seconds
+[2023-07-03T14:32:23.025+0000] {processor.py:153} INFO - Started process (PID=1809) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:32:23.028+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:32:23.030+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:32:23.030+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:32:23.062+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:32:23.126+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:32:23.126+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:32:23.164+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:32:23.164+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:32:23.181+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.179 seconds
+[2023-07-03T14:32:53.586+0000] {processor.py:153} INFO - Started process (PID=1866) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:32:53.589+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:32:53.590+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:32:53.590+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:32:53.647+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:32:53.708+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:32:53.708+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:32:53.734+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:32:53.734+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:32:53.750+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.169 seconds
+[2023-07-03T14:33:24.015+0000] {processor.py:153} INFO - Started process (PID=1923) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:33:24.016+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:33:24.018+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:33:24.018+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:33:24.052+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:33:24.083+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:33:24.083+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:33:24.103+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:33:24.103+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:33:24.116+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.112 seconds
+[2023-07-03T14:36:22.662+0000] {processor.py:153} INFO - Started process (PID=43) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:36:22.676+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:36:22.677+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:36:22.677+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:36:22.893+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:36:22.997+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:36:22.997+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:36:23.102+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:36:23.102+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:36:23.207+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.566 seconds
+[2023-07-03T14:36:53.910+0000] {processor.py:153} INFO - Started process (PID=100) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:36:53.911+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:36:53.913+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:36:53.913+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:36:53.932+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:36:53.970+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:36:53.969+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:36:54.002+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:36:54.002+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:36:54.026+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.121 seconds
+[2023-07-03T14:37:24.662+0000] {processor.py:153} INFO - Started process (PID=157) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:37:24.666+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:37:24.668+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:37:24.667+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:37:24.690+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:37:24.758+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:37:24.758+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:37:24.794+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:37:24.794+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:37:24.811+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.155 seconds
+[2023-07-03T14:37:55.522+0000] {processor.py:153} INFO - Started process (PID=213) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:37:55.523+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:37:55.524+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:37:55.524+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:37:55.540+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:37:55.562+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:37:55.562+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:37:55.579+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:37:55.579+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:37:55.590+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.072 seconds
+[2023-07-03T14:38:26.568+0000] {processor.py:153} INFO - Started process (PID=270) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:38:26.572+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:38:26.574+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:38:26.574+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:38:26.605+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:38:26.639+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:38:26.639+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:38:26.680+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:38:26.680+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:38:26.712+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.148 seconds
+[2023-07-03T14:38:57.094+0000] {processor.py:153} INFO - Started process (PID=328) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:38:57.096+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:38:57.097+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:38:57.097+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:38:57.117+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:38:57.144+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:38:57.144+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:38:57.161+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:38:57.161+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:38:57.171+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.082 seconds
+[2023-07-03T14:39:27.425+0000] {processor.py:153} INFO - Started process (PID=385) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:39:27.427+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:39:27.428+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:39:27.428+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:39:27.450+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:39:27.479+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:39:27.479+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:39:27.518+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:39:27.517+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:39:27.537+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.117 seconds
+[2023-07-03T14:39:58.283+0000] {processor.py:153} INFO - Started process (PID=442) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:39:58.286+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:39:58.288+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:39:58.288+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:39:58.327+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:39:58.357+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:39:58.357+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:39:58.377+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:39:58.377+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:39:58.389+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.113 seconds
+[2023-07-03T14:40:28.703+0000] {processor.py:153} INFO - Started process (PID=500) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:40:28.705+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:40:28.707+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:40:28.706+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:40:28.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:40:28.766+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:40:28.766+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:40:28.788+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:40:28.788+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:40:28.801+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.108 seconds
+[2023-07-03T14:40:59.023+0000] {processor.py:153} INFO - Started process (PID=557) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:40:59.025+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:40:59.028+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:40:59.027+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:40:59.070+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:40:59.102+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:40:59.102+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:40:59.132+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:40:59.132+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:40:59.145+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.134 seconds
+[2023-07-03T14:41:29.244+0000] {processor.py:153} INFO - Started process (PID=614) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:41:29.247+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:41:29.248+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:41:29.248+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:41:29.274+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:41:29.300+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:41:29.300+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:41:29.318+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:41:29.318+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:41:29.340+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.114 seconds
+[2023-07-03T14:42:00.157+0000] {processor.py:153} INFO - Started process (PID=671) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:42:00.159+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:42:00.160+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:42:00.160+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:42:00.183+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:42:00.220+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:42:00.219+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:42:00.252+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:42:00.251+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:42:00.264+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.115 seconds
+[2023-07-03T14:42:30.357+0000] {processor.py:153} INFO - Started process (PID=728) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:42:30.359+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:42:30.360+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:42:30.360+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:42:30.389+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:42:30.429+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:42:30.429+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:42:30.451+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:42:30.451+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:42:30.466+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.116 seconds
+[2023-07-03T14:43:00.538+0000] {processor.py:153} INFO - Started process (PID=785) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:43:00.540+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:43:00.541+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:43:00.541+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:43:00.563+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:43:00.589+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:43:00.589+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:43:00.607+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:43:00.607+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:43:00.618+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.085 seconds
+[2023-07-03T14:43:30.815+0000] {processor.py:153} INFO - Started process (PID=842) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:43:30.816+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:43:30.817+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:43:30.817+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:43:30.838+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:43:30.886+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:43:30.885+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:43:30.912+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:43:30.912+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:43:30.941+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.129 seconds
+[2023-07-03T14:44:01.097+0000] {processor.py:153} INFO - Started process (PID=899) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:44:01.098+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:44:01.099+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:44:01.099+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:44:01.115+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:44:01.136+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:44:01.136+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:44:01.153+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:44:01.153+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:44:01.164+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.070 seconds
+[2023-07-03T14:44:31.340+0000] {processor.py:153} INFO - Started process (PID=956) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:44:31.344+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:44:31.346+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:44:31.346+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:44:31.367+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:44:31.399+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:44:31.399+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:44:31.421+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:44:31.421+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:44:31.434+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.100 seconds
+[2023-07-03T14:45:01.884+0000] {processor.py:153} INFO - Started process (PID=1013) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:45:01.885+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:45:01.886+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:45:01.886+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:45:01.908+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:45:01.947+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:45:01.947+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:45:01.967+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:45:01.967+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:45:01.979+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.102 seconds
+[2023-07-03T14:45:32.368+0000] {processor.py:153} INFO - Started process (PID=1070) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:45:32.369+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:45:32.370+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:45:32.370+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:45:32.392+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:45:32.417+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:45:32.417+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:45:32.435+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:45:32.435+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:45:32.454+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.090 seconds
+[2023-07-03T14:46:02.541+0000] {processor.py:153} INFO - Started process (PID=1127) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:46:02.543+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:46:02.544+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:46:02.544+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:46:02.560+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:46:02.587+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:46:02.587+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:46:02.609+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:46:02.609+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:46:02.621+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.084 seconds
+[2023-07-03T14:46:33.159+0000] {processor.py:153} INFO - Started process (PID=1184) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:46:33.160+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:46:33.161+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:46:33.161+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:46:33.176+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:46:33.203+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:46:33.203+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:46:33.220+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:46:33.220+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:46:33.230+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.075 seconds
+[2023-07-03T14:47:03.587+0000] {processor.py:153} INFO - Started process (PID=1241) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:47:03.589+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:47:03.590+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:47:03.590+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:47:03.613+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:47:03.640+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:47:03.640+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:47:03.659+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:47:03.658+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:47:03.671+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.089 seconds
+[2023-07-03T14:47:33.893+0000] {processor.py:153} INFO - Started process (PID=1298) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:47:33.895+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:47:33.896+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:47:33.896+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:47:33.914+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:47:33.947+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:47:33.947+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:47:33.995+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:47:33.995+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:47:34.013+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.125 seconds
+[2023-07-03T14:48:04.665+0000] {processor.py:153} INFO - Started process (PID=1355) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:48:04.667+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:48:04.667+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:48:04.667+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:48:04.681+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:48:04.707+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:48:04.707+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:48:04.724+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:48:04.724+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:48:04.735+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.073 seconds
+[2023-07-03T14:48:35.085+0000] {processor.py:153} INFO - Started process (PID=1412) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:48:35.087+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:48:35.089+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:48:35.088+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:48:35.122+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:48:35.162+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:48:35.162+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:48:35.193+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:48:35.193+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:48:35.207+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.130 seconds
+[2023-07-03T14:49:05.520+0000] {processor.py:153} INFO - Started process (PID=1469) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:49:05.522+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:49:05.523+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:49:05.523+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:49:05.540+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:49:05.579+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:49:05.579+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:49:05.600+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:49:05.600+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:49:05.613+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.097 seconds
+[2023-07-03T14:49:36.332+0000] {processor.py:153} INFO - Started process (PID=1526) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:49:36.334+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:49:36.335+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:49:36.334+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:49:36.347+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:49:36.371+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:49:36.371+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:49:36.388+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:49:36.388+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:49:36.399+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.071 seconds
+[2023-07-03T14:50:06.571+0000] {processor.py:153} INFO - Started process (PID=1583) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:50:06.574+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:50:06.575+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:50:06.575+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:50:06.607+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:50:06.642+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:50:06.642+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:50:06.672+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:50:06.672+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:50:06.687+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.122 seconds
+[2023-07-03T14:50:37.158+0000] {processor.py:153} INFO - Started process (PID=1641) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:50:37.160+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:50:37.161+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:50:37.161+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:50:37.182+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:50:37.213+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:50:37.213+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:50:37.231+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:50:37.231+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:50:37.243+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.091 seconds
+[2023-07-03T14:51:07.990+0000] {processor.py:153} INFO - Started process (PID=1698) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:51:07.992+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:51:07.993+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:51:07.993+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:51:08.020+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:51:08.082+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:51:08.081+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:51:08.122+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:51:08.122+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:51:08.138+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.156 seconds
+[2023-07-03T14:51:38.431+0000] {processor.py:153} INFO - Started process (PID=1755) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:51:38.433+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:51:38.434+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:51:38.434+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:51:38.457+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:51:38.496+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:51:38.496+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:51:38.528+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:51:38.528+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:51:38.543+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.117 seconds
+[2023-07-03T14:52:09.182+0000] {processor.py:153} INFO - Started process (PID=1812) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:52:09.183+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:52:09.185+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:52:09.184+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:52:09.201+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:52:09.227+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:52:09.227+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:52:09.247+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:52:09.246+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:52:09.259+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.082 seconds
+[2023-07-03T14:52:40.205+0000] {processor.py:153} INFO - Started process (PID=1869) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:52:40.208+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:52:40.209+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:52:40.209+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:52:40.226+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:52:40.249+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:52:40.249+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:52:40.266+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:52:40.266+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:52:40.278+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.077 seconds
+[2023-07-03T14:53:10.508+0000] {processor.py:153} INFO - Started process (PID=1927) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:53:10.509+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:53:10.510+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:53:10.510+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:53:10.525+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:53:10.549+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:53:10.549+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:53:10.566+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:53:10.566+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:53:10.579+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.074 seconds
+[2023-07-03T14:53:40.763+0000] {processor.py:153} INFO - Started process (PID=1984) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:53:40.764+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:53:40.765+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:53:40.765+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:53:40.778+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:53:40.796+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:53:40.796+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:53:40.812+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:53:40.812+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:53:40.824+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.064 seconds
+[2023-07-03T14:54:11.342+0000] {processor.py:153} INFO - Started process (PID=2036) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:54:11.345+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:54:11.346+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:54:11.346+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:54:11.385+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:54:11.418+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:54:11.418+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:54:11.453+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:54:11.453+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:54:11.470+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.135 seconds
+[2023-07-03T14:54:41.982+0000] {processor.py:153} INFO - Started process (PID=2094) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:54:41.984+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:54:41.986+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:54:41.985+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:54:42.011+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:54:42.038+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:54:42.038+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:54:42.059+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:54:42.058+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:54:42.071+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.099 seconds
+[2023-07-03T14:55:12.218+0000] {processor.py:153} INFO - Started process (PID=2151) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:55:12.219+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:55:12.220+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:55:12.220+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:55:12.262+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:55:12.289+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:55:12.289+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:55:12.311+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:55:12.311+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:55:12.323+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.111 seconds
+[2023-07-03T14:55:42.976+0000] {processor.py:153} INFO - Started process (PID=2208) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:55:42.983+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:55:42.984+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:55:42.984+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:55:43.013+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:55:43.084+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:55:43.084+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:55:43.119+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:55:43.119+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:55:43.158+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.193 seconds
+[2023-07-03T14:56:13.291+0000] {processor.py:153} INFO - Started process (PID=2265) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:56:13.294+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:56:13.295+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:56:13.295+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:56:13.331+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:56:13.387+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:56:13.387+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:56:13.428+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:56:13.427+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:56:13.451+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.172 seconds
+[2023-07-03T14:56:43.650+0000] {processor.py:153} INFO - Started process (PID=2322) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:56:43.651+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:56:43.652+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:56:43.652+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:56:43.676+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:56:43.729+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:56:43.729+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:56:43.759+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:56:43.759+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:56:43.775+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.133 seconds
+[2023-07-03T14:57:14.205+0000] {processor.py:153} INFO - Started process (PID=2379) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:57:14.207+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:57:14.208+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:57:14.208+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:57:14.230+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:57:14.289+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:57:14.289+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:57:14.320+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:57:14.319+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:57:14.337+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.137 seconds
+[2023-07-03T14:57:44.987+0000] {processor.py:153} INFO - Started process (PID=2436) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:57:44.989+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:57:44.990+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:57:44.990+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:57:45.009+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:57:45.041+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:57:45.041+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:57:45.068+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:57:45.068+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:57:45.084+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.104 seconds
+[2023-07-03T14:58:15.475+0000] {processor.py:153} INFO - Started process (PID=2493) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:58:15.476+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:58:15.481+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:58:15.481+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:58:15.501+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:58:15.534+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:58:15.534+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:58:15.560+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:58:15.560+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:58:15.576+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.105 seconds
+[2023-07-03T14:58:45.879+0000] {processor.py:153} INFO - Started process (PID=2550) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:58:45.881+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:58:45.883+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:58:45.883+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:58:45.908+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:58:45.999+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:58:45.999+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:58:46.056+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:58:46.055+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:58:46.074+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.202 seconds
+[2023-07-03T14:59:16.270+0000] {processor.py:153} INFO - Started process (PID=2607) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:59:16.272+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:59:16.275+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:59:16.275+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:59:16.312+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:59:16.367+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:59:16.367+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:59:16.412+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:59:16.412+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:59:16.428+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.166 seconds
+[2023-07-03T14:59:46.533+0000] {processor.py:153} INFO - Started process (PID=2664) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T14:59:46.535+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T14:59:46.538+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:59:46.537+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T14:59:46.559+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T14:59:46.612+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:59:46.612+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T14:59:46.639+0000] {logging_mixin.py:137} INFO - [2023-07-03T14:59:46.639+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T14:59:46.655+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.133 seconds
+[2023-07-03T15:00:16.833+0000] {processor.py:153} INFO - Started process (PID=2721) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T15:00:16.834+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T15:00:16.835+0000] {logging_mixin.py:137} INFO - [2023-07-03T15:00:16.835+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T15:00:16.871+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T15:00:16.915+0000] {logging_mixin.py:137} INFO - [2023-07-03T15:00:16.915+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T15:00:16.946+0000] {logging_mixin.py:137} INFO - [2023-07-03T15:00:16.946+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T15:00:16.969+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.141 seconds
+[2023-07-03T15:00:47.114+0000] {processor.py:153} INFO - Started process (PID=2777) to work on /opt/airflow/dags/treino05.py
+[2023-07-03T15:00:47.116+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/treino05.py for tasks to queue
+[2023-07-03T15:00:47.117+0000] {logging_mixin.py:137} INFO - [2023-07-03T15:00:47.117+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/treino05.py
+[2023-07-03T15:00:47.134+0000] {processor.py:753} INFO - DAG(s) dict_keys(['treino-05']) retrieved from /opt/airflow/dags/treino05.py
+[2023-07-03T15:00:47.166+0000] {logging_mixin.py:137} INFO - [2023-07-03T15:00:47.166+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-07-03T15:00:47.194+0000] {logging_mixin.py:137} INFO - [2023-07-03T15:00:47.194+0000] {dag.py:3456} INFO - Setting next_dagrun for treino-05 to None, run_after=None
+[2023-07-03T15:00:47.209+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/treino05.py took 0.100 seconds
